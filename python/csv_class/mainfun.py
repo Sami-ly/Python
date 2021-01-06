@@ -23,3 +23,6 @@ print(file2.creat_and_write())
 print(file2.keyword('rahimo'))
 print(file2.index_cell('id'))
 #file2.clear()
+
+####  what the fuck
+# what the fuck
